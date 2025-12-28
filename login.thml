@@ -1,0 +1,9 @@
+<form>
+  <input type="text" placeholder="login">
+  <input type="password" placeholder="Password">
+  <button>Login</button>
+</form>
+
+<style>
+  form { padding: 20px; border: 1px solid gray; }
+</style>
